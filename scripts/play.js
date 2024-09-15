@@ -39,7 +39,7 @@ export function play(levelArray, currentLevel) {
   function showLosePage() {
     document.querySelector('.card-grid-wrapper').innerHTML = `
       <div class="game-over">
-        <img src="../img/game-over.png" alt="Game Over">
+        <img src="https://AyaHA20.github.io/Memory-card-game/img/game-over.png" alt="Game Over">
         <h1>Game Over</h1>
         <p>You ran out of time!</p>
         <div class="start-button">
@@ -52,7 +52,7 @@ export function play(levelArray, currentLevel) {
   function showWinPage() {
     document.querySelector('.card-grid-wrapper').innerHTML = `
       <div class="game-win">
-        <img src="../img/win.png" alt="Winner">
+        <img src="https://AyaHA20.github.io/Memory-card-game/img/win.png" alt="Winner">
         <h1>You Win :)</h1>
         <p>You are the super 'Master Memory'!</p>
         <div class="start-button">
