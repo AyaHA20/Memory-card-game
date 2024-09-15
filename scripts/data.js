@@ -5,154 +5,154 @@ export const level1= [
   },
   {
     id:2,
-    image:"../img/img2.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img2.jpg",
   },
   {
     id:3,
-    image:"../img/img3.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img3.jpg",
   },
   {
     id:4,
-    image:"../img/img4.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img4.jpg",
   },
   {
     id:5,
-    image:"../img/img5.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img5.jpg",
   },
   {
     id:6,
-    image:"../img/img6.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img6.jpg",
   },
   {
     id:7,
-    image:"../img/img7.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img7.jpg",
   },
   {
     id:8,
-    image:"../img/img8.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img8.jpg",
   }
 ]
 export const level2=[
   {
     id:9,
-    image:"../img/img9.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img9.jpg",
   },
   {
     id:10,
-    image:"../img/img10.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img10.jpg",
   },
   {
     id:11,
-    image:"../img/img11.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img11.jpg",
   },
   {
     id:12,
-    image:"../img/img12.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img12.jpg",
   },
   {
     id:13,
-    image:"../img/img13.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img13.jpg",
   },
   {
     id:14,
-    image:"../img/img14.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img14.jpg",
   },
   {
     id:15,
-    image:"../img/img15.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img15.jpg",
   },
   {
     id:16,
-    image:"../img/img16.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img16.jpg",
   },
   {
     id:17,
-    image:"../img/img17.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img17.jpg",
   },
   {
     id:18,
-    image:"../img/img18.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img18.jpg",
   },
   {
     id:19,
-    image:"../img/img19.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img19.jpg",
   },
   {
     id:20,
-    image:"../img/img20.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img20.jpg",
   }
 ]
 export const level3=[
   {
     id:21,
-    image:"../img/img21.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img21.jpg",
   },
   {
     id:22,
-    image:"../img/img22.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img22.jpg",
   },
   {
     id:23,
-    image:"../img/img23.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img23.jpg",
   },
   {
     id:24,
-    image:"../img/img24.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img24.jpg",
   },
   {
     id:25,
-    image:"../img/img25.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img25.jpg",
   },
   {
     id:26,
-    image:"../img/img26.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img26.jpg",
   },
   {
     id:27,
-    image:"../img/img27.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img27.jpg",
   },
   {
     id:28,
-    image:"../img/img28.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img28.jpg",
   },
   {
     id:29,
-    image:"../img/img29.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img29.jpg",
   },
   {
     id:30,
-    image:"../img/img30.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img30.jpg",
   },
   {
     id:31,
-    image:"../img/img31.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img31.jpg",
   },
   {
     id:32,
-    image:"../img/img32.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img32.jpg",
   },
   {
     id:33,
-    image:"../img/img33.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img33.jpg",
   },
   {
     id:34,
-    image:"../img/img34.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img34.jpg",
   },
   {
     id:35,
-    image:"../img/img35.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img35.jpg",
   },
   {
     id:36,
-    image:"../img/img36.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img36.jpg",
   },
   {
     id:37,
-    image:"../img/img37.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img37.jpg",
   },
   {
     id:38,
-    image:"../img/img38.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img38.jpg",
   },
 ]
