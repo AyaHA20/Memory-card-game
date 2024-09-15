@@ -1,7 +1,7 @@
 export const level1= [
   {
     id:1,
-    image:"../img/img1.jpg",
+    image:"https://AyaHA20.github.io/Memory-card-game/img/img1.jpg",
   },
   {
     id:2,
